@@ -1,0 +1,16 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1} Introducci\'on }{2}
+\contentsline {section}{\numberline {2} Objetivos }{2}
+\contentsline {section}{\numberline {3} Desarrollo }{3}
+\contentsline {subsection}{\numberline {3.1}Pregunta 1}{3}
+\contentsline {subsubsection}{\numberline {3.1.1}Funci\'on inter\_pol()}{3}
+\contentsline {subsubsection}{\numberline {3.1.2}Benchmark}{5}
+\contentsline {subsection}{\numberline {3.2}Pregunta 2}{7}
+\contentsline {subsubsection}{\numberline {3.2.1}Funci\'on erf\_teo(y, n)}{7}
+\contentsline {subsubsection}{\numberline {3.2.2}Tabla de raices del Polinomio de Legendre}{8}
+\contentsline {subsubsection}{\numberline {3.2.3}Tabla de $c_i$ y valores de erf() obtenidos}{9}
+\contentsline {subsubsection}{\numberline {3.2.4}Gr\'afico}{9}
+\contentsline {subsubsection}{\numberline {3.2.5}Funci\'on erf\_real()}{10}
+\contentsline {subsubsection}{\numberline {3.2.6}Error relativo}{10}
+\contentsline {section}{\numberline {4}Conclusiones}{11}
+\contentsline {section}{\numberline {5}Anexos}{11}
